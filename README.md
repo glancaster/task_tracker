@@ -2,7 +2,7 @@
 
 Backend Project built based on Task Tracker https://roadmap.sh/projects/task-tracker
 
-From source: 
+From source with slight modifications: 
 ```
 Examples
 The list of commands and their usage is given below:
